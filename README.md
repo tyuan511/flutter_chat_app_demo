@@ -1,16 +1,22 @@
 # chatui
 
-A new Flutter project.
+一个flutter demo项目，来自https://www.youtube.com/watch?v=uiJF-ShOLyo
 
-## Getting Started
+视频：https://www.youtube.com/watch?v=uiJF-ShOLyo
 
-This project is a starting point for a Flutter application.
+原项目：https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme
 
-A few resources to get you started if this is your first Flutter project:
+## 项目截图
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 浅色模式
+<img src="./screenshots/welcome-light.png" width="20%" />
+<img src="./screenshots/auth-light.png" width="20%" />
+<img src="./screenshots/list-light.png" width="20%" />
+<img src="./screenshots/detail-light.png" width="20%" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### 深色模式
+<img src="./screenshots/welcome-dark.png" width="20%" />
+<img src="./screenshots/auth-dark.png" width="20%" />
+<img src="./screenshots/list-dark.png" width="20%" />
+<img src="./screenshots/detail-dark.png" width="20%" />
