@@ -1,6 +1,6 @@
 # chatui
 
-一个flutter demo项目，来自https://www.youtube.com/watch?v=uiJF-ShOLyo
+一个flutter demo项目
 
 视频：https://www.youtube.com/watch?v=uiJF-ShOLyo
 
