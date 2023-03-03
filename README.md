@@ -9,14 +9,18 @@
 ## 项目截图
 
 ### 浅色模式
-<img src="./screenshots/welcome-light.png" width="20%" />
-<img src="./screenshots/auth-light.png" width="20%" />
-<img src="./screenshots/list-light.png" width="20%" />
-<img src="./screenshots/detail-light.png" width="20%" />
+<div style="display:flex;">
+<img src="./screenshots/welcome-light.png" width="25%" />
+<img src="./screenshots/auth-light.png" width="25%" />
+<img src="./screenshots/list-light.png" width="25%" />
+<img src="./screenshots/detail-light.png" width="25%" />
+</div>
 
 
 ### 深色模式
-<img src="./screenshots/welcome-dark.png" width="20%" />
-<img src="./screenshots/auth-dark.png" width="20%" />
-<img src="./screenshots/list-dark.png" width="20%" />
-<img src="./screenshots/detail-dark.png" width="20%" />
+<div style="display:flex;">
+<img src="./screenshots/welcome-dark.png" width="25%" />
+<img src="./screenshots/auth-dark.png" width="25%" />
+<img src="./screenshots/list-dark.png" width="25%" />
+<img src="./screenshots/detail-dark.png" width="25%" />
+</div>
